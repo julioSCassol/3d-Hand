@@ -40,3 +40,7 @@ Certifique-se de ter as seguintes dependências instaladas no seu ambiente de de
    cd repositorio
    ```
 
+## Projeto Compilado:
+
+![image](https://github.com/user-attachments/assets/18036703-8e4d-44a6-9cda-241e52f151be)
+
